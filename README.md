@@ -12,4 +12,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=250&section=header&text=HELLO&fontSize=50&fontAlign=70&fontAlignY=3&desc=안녕하세요%20Heosg%20깃허브%20입니다%20&descSize=15&descAlign=70&descAlignY=15&rotate=16&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=waving&color=D8C8B2&height=200&section=footer&text=Heo%20Github%20Profile&fontSize=60&fontAlignY=80&desc=HELLO%20&descSize=13&descAlign=20&descAlignY=20&animation=twinkling)
+
+
