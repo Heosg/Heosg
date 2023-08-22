@@ -55,10 +55,10 @@ Here are some ideas to get you started:
 <br>
 <div align=center>
 <br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ganggang9558&layout=compact">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Heosg&layout=compact">
 	<br>
 	<br>
-<img src="https://github-readme-stats.vercel.app/api?username=ganggang9558&show_icons=true">
+<img src="https://github-readme-stats.vercel.app/api?username=Heosg&show_icons=true">
 </div>
 
 
