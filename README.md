@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=D8C8B2&height=200&section=footer&text=Heo%20Github%20Profile&fontSize=60&fontAlignY=80&desc=갱이%20깃허브에%20오신것을%20환영합니다&descSize=13&descAlign=50&descAlignY=95&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=waving&color=D8C8B2&height=200&section=footer&text=SeungGyeong's%20Github%20Profile&fontSize=60&fontAlignY=80&desc=갱이%20깃허브에%20오신것을%20환영합니다&descSize=13&descAlign=50&descAlignY=95&animation=twinkling)
 
 <br/>
 <br/>
@@ -55,11 +55,9 @@ Here are some ideas to get you started:
 <br>
 <div align=center>
 <br>
-<!-- (Todo 수정예정)
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Heosg&layout=compact">
 	<br>
 	<br>
--->
 <img src="https://github-readme-stats.vercel.app/api?username=Heosg&show_icons=true">
 </div>
 
